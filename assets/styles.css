@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+body{
+    background-color: rgb(114, 93, 167);
+    color: #110639;
+    height:auto;
+    min-height:100vh;
+}
+/* Container styling */
+.container {
+    font-family: 'Inconsolata';
+    max-width: 65vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    font-family: 'Inconsolata';
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-top: 2em;
+}
